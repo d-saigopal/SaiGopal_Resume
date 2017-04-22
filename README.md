@@ -11,4 +11,15 @@
      \noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
    \end{LARGE}
    \begin{Large}
+   
+   \begin{minipage}[t]{0.5\textwidth}
+        Hostel No.10,\\
+        Room No.B-486,\\
+        NIT Kurukshetra,\\
+        Haryana-136119.
+     \end{minipage}
+     \begin{minipage}[t]{0.5\textwidth}
+        \textbf{Contact:} +91-9728433154\\
+        \textbf{Email-id:} saigopaldhulipala@gmail.com
+     \end{minipage}
  \end{document}
