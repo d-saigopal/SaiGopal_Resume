@@ -22,4 +22,10 @@
         \textbf{Contact:} +91-9728433154\\
         \textbf{Email-id:} saigopaldhulipala@gmail.com
      \end{minipage}
+   \begin{figure}[h]
+         \begin{flushright}
+           \includegraphics[width=3cm,height=4cm]{DSG.jpg}
+         \end{flushright}
+     \end{figure}
+   \end{Large}
  \end{document}
